@@ -54,7 +54,6 @@ main h2 {
 .main-content {
   display: flex;
   justify-content: center;
-  align-items: center;
 }
 
 .main-image {
